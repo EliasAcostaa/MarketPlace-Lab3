@@ -5,8 +5,10 @@
                             'imagen descripcion'
                             'puntaje puntaje'
                             'ingreso-puntaje ingreso-puntaje';
+}
 
-    color: aliceblue;
+body {
+    background-color: aliceblue;
 }
 
 .box {
