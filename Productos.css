@@ -7,6 +7,10 @@
                             'ingreso-puntaje ingreso-puntaje';
 }
 
+body {
+    background-color: aliceblue;
+}
+
 .box {
     border-style: solid;
     border-width: 2px;
